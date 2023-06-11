@@ -14,3 +14,5 @@ I know it sounds quite dumb when I repeat this sentence out loud, but I followed
 Why not?
 ## What are the terms for using your work?
 Do whatever the fuck you want to.
+## Where do I find the project?
+Go to releases. I'm not putting it here.
