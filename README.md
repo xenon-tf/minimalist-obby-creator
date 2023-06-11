@@ -5,7 +5,7 @@ Funny story actually.
 While on a Discord call with Xtrau505, he made a huge obby with two full courses that must both be completed to win. I was the first to beat the obby (does that make me the verifier?), but I was desperate to see him struggle, 
 so I made him a deal: If he could complete his own obby, I would create an entire obby creator in Roblox Studio.
 
-Promptly, he beat his entire obby **in only two attempts.**
+He beat his entire obby **in only two attempts.**
 
 I know it sounds quite dumb when I repeat this sentence out loud, but I followed through. This obby creator is a product of that.
 ## Are you insane?
